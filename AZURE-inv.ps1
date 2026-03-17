@@ -1,4 +1,4 @@
-# inventario-azure.ps1
+# azure-inv.ps1
 
 # Conectar a Azure
 Connect-AzAccount
